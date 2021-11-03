@@ -1,1 +1,1 @@
-![](https://github.com/paulosaldanha/androidComposeJetpack/blob/master/jetPackcompose.gif =200x400)
+![](https://github.com/paulosaldanha/androidComposeJetpack/blob/master/jetPackcompose.gif)
